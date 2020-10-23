@@ -101,7 +101,7 @@ For image search, you will have to compute the distance between the source image
 3) Select the closest cluster.
 4) Compare the source image embeddings with the dataset images belonging to the selected cluster.
 
-You can also create hierarchical clusters to further optimise it.
+You can also create hierarchical clusters to further optimise it. text text change
 
 ## Known Issues
 
