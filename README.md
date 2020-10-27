@@ -1,4 +1,4 @@
-# Image Similarity using Deep Ranking by wwww, on new branch
+# this line will cause conflict
 
 This repository is based on [this](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978) blog. Please refer it to understand how Deep Ranking works.  
  
